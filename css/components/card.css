@@ -10,7 +10,7 @@
 }
 
 .card-service {
-  width: 200px;
+  width: 220px;
   height: 300px;
   box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
   margin-top: 20px;
@@ -20,7 +20,7 @@
 }
 
 .card-service img {
-  width: 180px;
+  width: 200px;
   height: 120px;
   object-fit: cover;
 }
