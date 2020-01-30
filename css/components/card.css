@@ -1,0 +1,37 @@
+.card-all-services h2 {
+  color: rgb(75,75,75);
+  text-align: center;
+  font-size: 32px;
+}
+
+.cards{
+  display: flex;
+  justify-content: space-between;
+}
+
+.card-service {
+  width: 200px;
+  height: 300px;
+  box-shadow: 0px 5px 15px rgba(0,0,0,0.2);
+  margin-top: 20px;
+  padding: 5px;
+  text-align: center;
+  color: rgb(95,95,95);
+}
+
+.card-service img {
+  width: 180px;
+  height: 120px;
+  object-fit: cover;
+}
+
+.card-service h2 {
+  margin: 20px;
+  font-size: 24px;
+}
+
+.card-service p {
+  margin-top: 20px;
+  font-size: 16px;
+  color: rgb(110,110,110);
+}

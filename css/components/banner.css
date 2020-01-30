@@ -1,0 +1,8 @@
+.banner {
+  background-image: url('../../images/fougere.jpg');
+  background-size: cover;
+  height: 450px;
+  display: flex;
+  align-items: center;
+}
+
